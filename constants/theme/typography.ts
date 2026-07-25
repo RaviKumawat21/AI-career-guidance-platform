@@ -1,0 +1,10 @@
+export const typography = {
+  h1: "text-5xl font-bold tracking-tight",
+  h2: "text-4xl font-bold",
+  h3: "text-2xl font-semibold",
+
+  body: "text-base",
+  small: "text-sm",
+
+  muted: "text-muted-foreground",
+};
